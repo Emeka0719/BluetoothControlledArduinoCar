@@ -1,6 +1,7 @@
 # 🚗 Bluetooth Controlled Arduino Car
 
 A fully functional 2-wheel-drive Arduino car controlled over Bluetooth with variable speed via PWM.
+<img width="590" height="542" alt="WhatsApp Image 2026-04-25 at 12 54 20" src="https://github.com/user-attachments/assets/4ac94cf4-fad6-49a4-9d3d-652bbd58fb88" />
 
 ## 📦 Components
 
@@ -71,6 +72,7 @@ arduino-bt-car/
 │   └── bluetooth_car.ino   # Main sketch
 └── README.md
 ```
+<img width="590" height="542" alt="WhatsApp Image 2026-04-25 at 12 54 20" src="https://github.com/user-attachments/assets/766da084-6412-4d2c-b697-e0f5e6a0e6df" />
 
 ## ⚙️ Customising Speed
 
